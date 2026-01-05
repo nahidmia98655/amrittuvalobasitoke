@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Placeholder colors – replace with your design palette -->
-    <color name="colorPrimaryVariant">#FF6200EE</color>
-    <color name="colorOnPrimary">#FFFFFFFF</color>
-    <!-- Existing colors from your project can stay here -->
+    <!-- Placeholder colors – replace with your design colors -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Default values for the newly defined attributes -->
+    <color name="colorPrimaryVariant">@color/purple_700</color>
+    <color name="colorOnPrimary">@color/white</color>
 </resources>
